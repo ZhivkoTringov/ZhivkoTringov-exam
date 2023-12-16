@@ -25,7 +25,7 @@ jobs:
     - name: Display my SoftUni username
       run: echo "ZhivkoTringov"
   
-  DC:
+  CD:
     needs: CI
     runs-on: ubuntu-latest
     steps:
